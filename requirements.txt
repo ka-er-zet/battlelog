@@ -1,0 +1,10 @@
+pynput
+python-xlib
+customtkinter
+mss
+opencv-python
+numpy
+Pillow
+pyinstaller
+pyautogui
+psutil
